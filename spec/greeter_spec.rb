@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require 'tutorial/greeter'
 RSpec.describe Tutorial::Greeter do
   it 'greets by name' do
